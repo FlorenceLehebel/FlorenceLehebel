@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I am Florence Lehebel ! 👋
 
-<!--
-**FlorenceLehebel/FlorenceLehebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a passionate developer with a strong interest in app and web development, and open-source contributions. I enjoy solving complex problems and continuously learning new technologies to enhance my skills.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: JavaScript, Swift
+- App Development: SwiftUI
+- Web Development: HTML, CSS, React, Node.js, Laravel
+- Databases: MySQL
+- Tools & Platforms: Git, Jira
+- 15 years business experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+- Email : florencelehebel@gmail.com
+- LinkedIn : [Florence Lehebel](https://fr.linkedin.com/in/florencelehebel/en)
+
+You can contact me for any question :) 
+
+## Thanks for visiting my profile !
