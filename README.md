@@ -4,7 +4,7 @@
 I am a passionate developer with a strong interest in app and web development, and open-source contributions. I enjoy solving complex problems and continuously learning new technologies to enhance my skills.
 
 ## Skills
-- Programming Languages: JavaScript, Swift
+- Programming Languages: JavaScript, PHP, Swift
 - App Development: SwiftUI
 - Web Development: HTML, CSS, React, Node.js, Laravel
 - Databases: MySQL
